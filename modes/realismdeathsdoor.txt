@@ -7,7 +7,7 @@
 	"ShortDescription"	"Realism Death's Door (realism made by valve)"
 	"Description"	"Realism Death's Door with the realism made by valve"
 
-	"Image"		"maps/any"
+	"Image"		"vgui/realismdeathsdoor"
 	"Author"	"Le0N"
 
 	convar
