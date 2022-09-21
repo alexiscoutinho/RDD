@@ -1,0 +1,25 @@
+"RealismDeathsDoor"
+{
+	"base"		"realism"
+	"maxplayers"    "4"
+
+	"DisplayTitle"	"Realism Deaths Door"
+	"ShortDescription"	"Realism Death's Door (realism made by valve)"
+	"Description"	"Realism Death's Door with the realism made by valve"
+
+	"Image"		"maps/any"
+	"Author"	"Le0N"
+
+	convar
+	{
+		sv_disable_glow_survivors 1
+		sv_disable_glow_faritems 1
+		sv_rescue_disabled 1
+		z_non_head_damage_factor_multiplier 0.5
+		z_head_damage_causes_wounds 1
+		z_use_next_difficulty_damage_factor 1
+		z_witch_always_kills 1
+		"survivor_max_incapacitated_count" 0
+	}
+}
+
