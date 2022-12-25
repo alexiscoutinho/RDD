@@ -7,7 +7,9 @@ realismdeathsdoor
 
 	DisplayTitle		"Realism Death's Door"
 	ShortDescription	"Realism Death's Door (Realism made by Valve)."
-	Description			"Realism Death's Door with the Realism made by Valve."
+	Description			"Realism Death's Door with the Realism made by Valve.
+
+The internal mode name for use in the console is realismdeathsdoor."
 	Author				"£e0N and Jack Bauer ︻デ▬——"
 	Image				vgui/realismdeathsdoor
 }

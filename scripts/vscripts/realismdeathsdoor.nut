@@ -239,8 +239,8 @@ if (!Director.IsSessionStartMap()) {
 			return
 
 		if (NetProps.GetPropInt( player, "m_lifeState" ) == 2)
-			EntFire( "worldspawn", "RunScriptCode", "g_ModeScript.PlayerSpawnDeadAfterTransition(" + params.userid + ")", 0.0 )
+			EntFire( "worldspawn", "RunScriptCode", "g_ModeScript.PlayerSpawnDeadAfterTransition(" + params.userid + ")" )
 		else
-			EntFire( "worldspawn", "RunScriptCode", "g_ModeScript.PlayerSpawnAliveAfterTransition(" + params.userid + ")", 0.0 )
+			EntFire( "worldspawn", "RunScriptCode", "g_ModeScript.PlayerSpawnAliveAfterTransition(" + params.userid + ")" )
 	}
 }

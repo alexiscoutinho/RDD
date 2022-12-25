@@ -2,14 +2,12 @@ AddonInfo
 {
 	addonSteamAppID		550
 	addonTitle			"Realism Death's Door"
-	addonVersion		2.0
+	addonVersion		2.1
 	addonAuthor			"£e0N and Jack Bauer ︻デ▬——"
 	addonAuthorSteamID	djezuz
 	addonURL0			https://steamcommunity.com/sharedfiles/filedetails/855602193
 	addonContent_Script	1
 	addonDescription	"Death's Door with the Realism made by Valve.
-
-The internal mode name for use in the console is realismdeathsdoor.
 
 This addon simply merges the latest development version of Death's Door (in this mutation: incapacitation is disabled, you die instead; medkits and adrenalines are converted to pain pills; the heartbeat sound plays when under 25% health and B&W applies when at 1 perm HP; survivors are rewarded for reaching/resting in the safe room instead of 'rewarded' for dying, which now results in 24 perm + 26 temp HP in the next chapter, by having 80% of their missing health to 50% healed [the medkit heals 80% of the missing health to 100%]; defibrillators actually do what their name implies by giving 1 perm + 99 temp HP instead of curing players to 50 perm HP; and Fallen Survivors drop defibs instead of medkits) with the difficulties of the classic Realism mode.
 
